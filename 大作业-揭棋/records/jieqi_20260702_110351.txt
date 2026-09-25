@@ -1,0 +1,24 @@
+========== 揭棋棋谱 ==========
+时间: 2026-07-02 11:03:51
+结果: 黑方胜 (resign)
+步数: 16
+
+----- 棋谱 -----
+  1. red h7->e7 reveal=Guard
+  2. black b2->e2 reveal=Knight
+  3. red e7->d6
+  4. black e3->e4 reveal=Pawn
+  5. red e6->e6 reveal=Bishop
+  6. black c3->c3 reveal=Guard
+  7. red g6->g6 reveal=Cannon
+  8. black i3->i3 reveal=Pawn
+  9. red i6->i6 reveal=Pawn
+ 10. black h2->h2 reveal=Pawn
+ 11. red g6->g0
+ 12. black f0->e1 reveal=Guard
+ 13. red g0->d0
+ 14. black e1->d0
+ 15. red e6->g4
+ 16. black g3->g4 reveal=Pawn
+
+==============================

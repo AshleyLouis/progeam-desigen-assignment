@@ -1,0 +1,37 @@
+========== 揭棋棋谱 ==========
+时间: 2026-07-01 19:52:32
+结果: 红方胜 (kingCaptured)
+步数: 29
+
+----- 棋谱 -----
+  1. red h9->g7 reveal=Bishop
+  2. black h2->e2 reveal=Knight
+  3. red b7->b0 reveal=Rook
+  4. black a0->b0 reveal=Pawn
+  5. red c9->e7 reveal=Pawn
+  6. black g3->g4 reveal=Cannon
+  7. red h7->h7 reveal=Knight
+  8. black g4->g7
+  9. red h7->g5
+ 10. black g7->g5
+ 11. red g6->g5 reveal=Guard
+ 12. black e2->g3
+ 13. red g5->f4
+ 14. black g3->h5
+ 15. red f4->g5
+ 16. black h5->g7
+ 17. red i9->i7 reveal=Pawn
+ 18. black g7->f9
+ 19. red e9->f9
+ 20. black d0->e1 reveal=Guard
+ 21. red e6->e5 reveal=Bishop
+ 22. black b2->b6 reveal=Cannon
+ 23. red i6->i5 reveal=Rook
+ 24. black i3->i4 reveal=Bishop
+ 25. red i5->i4
+ 26. black e3->e4 reveal=Guard
+ 27. red i4->e4
+ 28. black e1->d2
+ 29. red e4->e0
+
+==============================
