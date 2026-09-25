@@ -235,7 +235,7 @@ java -cp bin InteropProtocolTest
 
 ## 贡献者
 
-- 角色A（仓库所有者/评审者）：AshleyLouis
+- 角色A（仓库所有者/评审者）：朱鼎
 - 角色B（贡献者）：欧阳晨
 
 ## 更新日志
